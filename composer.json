@@ -1,0 +1,13 @@
+{
+    "name": "fasterthanie/lara-forms",
+    "description": "Easier to use laravel forms",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "FasterThanIE\\LaraForms\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
